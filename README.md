@@ -92,7 +92,7 @@ python manage.py migrate
 _________________________________________________________________
 STEP6:
 
-CREATE API CONSOLE WATCH VIDEO CAREFULLY
+CREATE API CONSOLE
 
 1.Go to this link-> https://console.developers.google.com/
 
